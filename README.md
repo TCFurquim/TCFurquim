@@ -1,6 +1,6 @@
 - 👋 Thiago Campos Furquim
 - 👀 Interessado sempre em aprender sobre muita coisa
-- 🌱 Atualmente me dedicando a aprender o máximo que consigo sobre nuvens e suas manipulações..
+- 🌱 Atualmente me dedicando a aprender o máximo que consigo sobre dados e suas aplicações..
 - 📫 thiago.c.furquim@gmail.com
 
 <!---
